@@ -20,9 +20,9 @@
 
 - 🤝 Necesito ayuda con **Mejora de habilidades avanzadas en DevOps y escalabilidad en la nube.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [GitHub - Jeison Lopez.](https://github.com/Jeison-Lopez)
-
-- 📝 Escribo regularmente artículos sobre [Buenas prácticas en desarrollo backend y optimización de código en TypeScript.](#)
+- 👨‍💻 Todos mis proyectos están disponibles en **GitHub**
+- 
+- 📝 Escribo regularmente artículos sobre **Buenas prácticas en desarrollo backend y optimización de código en TypeScript.**
 
 - 💬 Pregúntame sobre **Desarrollo backend, NestJS, bases de datos, y buenas prácticas en arquitectura de software.**
 
