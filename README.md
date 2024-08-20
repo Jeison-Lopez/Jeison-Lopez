@@ -26,7 +26,7 @@
 
 - 💬 Pregúntame sobre **Desarrollo backend, NestJS, bases de datos, y buenas prácticas en arquitectura de software.**
 
-- 📫 Puedes contactarme a través de mi correo **jeisonlopezarroyave@gmail.com** o LinkedIn en [www.linkedin.com/in/jeison-lopez](https://www.linkedin.com/in/jeison-lopez).
+- 📫 Puedes contactarme a través de mi correo **jeisonlopezarroyave@gmail.com** o [LinkedIn en](https://www.linkedin.com/in/jeison-lopez).
 
 - 📄 Conoce más sobre mi experiencia en [mi perfil de LinkedIn](https://www.linkedin.com/in/jeison-lopez).
 
