@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, soy Jeison!</h1>
-<h3 align="center">Soy un desarrollador web especializado en backend, con experiencia en la creación de arquitecturas escalables y eficientes. Trabajo con TypeScript y diversas tecnologías de servidor, con un enfoque en Node.js, NestJS y bases de datos. Experto en la integración de soluciones robustas y de alto rendimiento.</h3>
+<h3 align="center">Desarrollador backend especializado en Node.js y NestJS, con experiencia en arquitecturas escalables y de alto rendimiento. Ofrezco soluciones eficientes y optimizadas en TypeScript y bases de datos como PostgreSQL, garantizando siempre la mejor calidad.</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
