@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Jeison</h1>
+<h1 align="center">Hola 👋 Soy Jeison</h1>
 <h3 align="center">
     Desarrollador backend especializado en Node.js y NestJS, con experiencia en arquitecturas escalables y de alto rendimiento. 
     Ofrezco soluciones eficientes y optimizadas en TypeScript y bases de datos como PostgreSQL, garantizando siempre la mejor calidad.
