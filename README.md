@@ -1,12 +1,11 @@
 <h1 align="center">Hola 👋 Soy Jeison</h1>
 <h3 align="center">
-    Desarrollador backend especializado en Node.js y NestJS, con experiencia en arquitecturas escalables y de alto rendimiento. 
-    Ofrezco soluciones eficientes y optimizadas en TypeScript y bases de datos como PostgreSQL, garantizando siempre la mejor calidad.
+    Desarrollador backend especializado en Node.js, JavaScript y TypeScript, apasionado por crear arquitecturas escalables y de alto rendimiento. Con experiencia en la implementación de soluciones óptimas y seguras utilizando NestJS, y en la gestión de bases de datos tanto relacionales como no relacionales, adaptándome a cualquier desafío.
 </h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=jeison-lopez&label=Profile%20views&color=0e75b6&style=flat" alt="jeison-lopez" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeison-lopez&label=Profile%20Views&color=2A8C82&style=plastic" alt="jeison-lopez" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeison-lopez&label=Profile%20Views&color=A61800&style=plastic" alt="jeison-lopez" /> </p>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
