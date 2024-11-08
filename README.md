@@ -45,6 +45,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<hr>
+
 ![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&theme=shadow_red&show_icons=true)
 
 <h3 align="left">Conéctate conmigo:</h3>
