@@ -45,17 +45,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&theme=shadow_red&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&theme=great-gatsby&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&theme=shadow_blue&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&theme=transparent&show_icons=true)
-
-
-
-
+![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&theme=shadow_red&show_icons=true)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
