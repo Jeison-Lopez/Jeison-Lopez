@@ -47,7 +47,7 @@
 
 <hr>
 
-![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&theme=shadow_red&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
