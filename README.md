@@ -1,39 +1,43 @@
-<p align="center">
+<div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Soy+Jeison" alt="Typing SVG" /></a>
-</p>
+</div>
 
 <h3 align="center">
-    Desarrollador full stack especializado en Node.js, JavaScript y TypeScript, apasionado por crear arquitecturas escalables y de alto rendimiento. Con experiencia en la implementación de soluciones óptimas y seguras utilizando NestJS, y en la gestión de bases de datos tanto relacionales como no relacionales, siempre dispuesto a enfrentar cualquier desafío.
+    <em>Desarrollador full stack especializado en Node.js, JavaScript y TypeScript, apasionado por crear arquitecturas escalables y de alto rendimiento. Con experiencia en la implementación de soluciones óptimas y seguras utilizando NestJS, y en la gestión de bases de datos tanto relacionales como no relacionales, siempre dispuesto a enfrentar cualquier desafío.</em>
 </h3>
 
 <div align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" /></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" alt="Visitor Badge"/></a>
 </div>
 <br>
 
-<p align="center">
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez" alt="jeison-lopez" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez" alt="GitHub Trophies" />
     </a>
-</p>
+</div>
 
-- 🌱 Actualmente estoy aprendiendo **Optimización de microservicios y nuevas tecnologías de infraestructura para backend.**
+<p>
 
-- 👯 Busco colaborar en **Proyectos backend desafiantes que involucren Node.js, TypeScript y arquitecturas escalables.**
+- 📚 Actualmente estoy aprendiendo **Optimización de microservicios y nuevas tecnologías de infraestructura para backend.**
 
-- 🤝 Necesito ayuda con **Mejora de habilidades avanzadas en DevOps y escalabilidad en la nube.**
+- 🤝 Busco colaborar en **Proyectos backend desafiantes que involucren Node.js, TypeScript y arquitecturas escalables.**
+
+- 🔍 Busco asesoría con **DevOps y escalabilidad en la nube.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en **GitHub**
 
-- 📝 Escribo regularmente artículos sobre **Buenas prácticas en desarrollo backend y optimización de código en TypeScript.**
+- 📝 Escribo regularmente artículos sobre **Mi vida diaria y los avances en mi camino como desarrollador.**
 
-- 💬 Pregúntame sobre **Desarrollo backend, NestJS, bases de datos, y buenas prácticas en arquitectura de software.**
+- 💬 Pregúntame sobre **Desarrollo backend, bases de datos, y buenas prácticas en arquitectura de software.**
 
-- 📫 Puedes contactarme a través de mi correo **jeisonlopezarroyave@gmail.com** o [LinkedIn](https://www.linkedin.com/in/jeison-lopez).
+- 📫 Puedes contactarme a través de mi correo **jeisonlopezarroyave@gmail.com** o [**LinkedIn**](https://www.linkedin.com/in/jeison-lopez).
 
-- 📄 Conoce más sobre mi experiencia en [mi perfil de LinkedIn](https://www.linkedin.com/in/jeison-lopez).
+- 📄 Conoce más sobre mi experiencia en mi perfil de [**LinkedIn**](https://www.linkedin.com/in/jeison-lopez).
 
-- ⚡ Dato curioso **Además de la programación, me apasiona entender cómo operan las empresas y descubrir estrategias para impulsar su crecimiento y éxito, ya que en el futuro quiero fundar y dirigir mi propia empresa.**
+- ⚡ Dato curioso: **Además de la programación, me apasiona entender cómo operan las empresas y descubrir estrategias para impulsar su crecimiento y éxito, ya que en el futuro quiero fundar y dirigir mi propia empresa.**
+
+</p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
