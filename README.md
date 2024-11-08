@@ -107,3 +107,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
+
+![snake gif](https://github.com/Jeison-Lopez/Jeison-Lopez/blob/output/github-snake-dark.svg)
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
