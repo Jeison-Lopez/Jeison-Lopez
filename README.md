@@ -19,25 +19,31 @@
 
 <p>
 
-- 📚 Actualmente estoy aprendiendo **Optimización de microservicios y nuevas tecnologías de infraestructura para backend.**
+- 📚 Actualmente estoy aprendiendo sobre **optimización de microservicios y nuevas tecnologías de infraestructura para backend.**
 
-- 🤝 Busco colaborar en **Proyectos backend desafiantes que involucren Node.js, TypeScript y arquitecturas escalables.**
+- 🤝 Busco colaborar en **proyectos backend desafiantes que involucren Node.js, TypeScript y arquitecturas escalables.**
 
-- 🔍 Busco asesoría con **DevOps y escalabilidad en la nube.**
+- 🔍 Busco asesoría sobre **DevOps y escalabilidad en la nube.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en **GitHub**
 
-- 📝 Escribo regularmente artículos sobre **Mi vida diaria y los avances en mi camino como desarrollador.**
+- 📝 Escribo regularmente artículos sobre **mi vida diaria y los avances en mi camino como desarrollador.**
 
-- 💬 Pregúntame sobre **Desarrollo backend, bases de datos, y buenas prácticas en arquitectura de software.**
+- 💬 Pregúntame sobre **desarrollo backend, bases de datos, y buenas prácticas en arquitectura de software.**
 
-- 📫 Puedes contactarme a través de mi correo **jeisonlopezarroyave@gmail.com** o [**LinkedIn**](https://www.linkedin.com/in/jeison-lopez).
+- 📫 Puedes contactarme a través de mi correo **Jeisonlopezarroyave@gmail.com** o [**LinkedIn**](https://www.linkedin.com/in/jeison-lopez).
 
 - 📄 Conoce más sobre mi experiencia en mi perfil de [**LinkedIn**](https://www.linkedin.com/in/jeison-lopez).
 
 - ⚡ Dato curioso: **Además de la programación, me apasiona entender cómo operan las empresas y descubrir estrategias para impulsar su crecimiento y éxito, ya que en el futuro quiero fundar y dirigir mi propia empresa.**
 
 </p>
+
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeison-Lopez&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
