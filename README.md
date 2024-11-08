@@ -8,13 +8,10 @@
 
 <div align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" /></a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/Jeison-Lopez/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile with the name Jeison-Lopez"/></a>
-  <a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
 </div>
 <br>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez" alt="jeison-lopez" />
     </a>
