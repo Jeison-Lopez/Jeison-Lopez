@@ -1,7 +1,18 @@
-<h1 align="center">Hola 👋 Soy Jeison</h1>
-<h3 align="center">
-    Desarrollador backend especializado en Node.js, JavaScript y TypeScript, apasionado por crear arquitecturas escalables y de alto rendimiento. Con experiencia en la implementación de soluciones óptimas y seguras utilizando NestJS, y en la gestión de bases de datos tanto relacionales como no relacionales, adaptándome a cualquier desafío.
+<br>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Soy+Jeison" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center" style="font-family: 'Times New Roman', serif;">
+    Desarrollador full stack especializado en Node.js, JavaScript y TypeScript, apasionado por crear arquitecturas escalables y de alto rendimiento. Con experiencia en la implementación de soluciones óptimas y seguras utilizando NestJS, y en la gestión de bases de datos tanto relacionales como no relacionales, siempre dispuesto a enfrentar cualquier desafío.
 </h3>
+
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" /></a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/Jeison-Lopez/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile with the name Jeison-Lopez"/></a>
+  <a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeison-lopez&label=Profile%20Views&color=2A8C82&style=plastic" alt="jeison-lopez" /> </p>
 
