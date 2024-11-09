@@ -14,34 +14,10 @@
 <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=juicyfresh" alt="GitHub Trophies" />
     </a>
-</div>
-<div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=tokyonight" alt="GitHub Trophies" />
-    </a>
-</div>
-<div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=gitdimmed" alt="GitHub Trophies" />
-    </a>
-</div>
-<div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=algolia" alt="GitHub Trophies" />
-    </a>
-</div>
-<div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=discord" alt="GitHub Trophies" />
-    </a>
-</div>
+
 <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=dark_lover" alt="GitHub Trophies" />
     </a>
-</div><div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=matrix" alt="GitHub Trophies" />
-    </a>
-</div>
-
-
-
-
 
 <p>
 
