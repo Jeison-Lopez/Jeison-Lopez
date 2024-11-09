@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Soy+Jeison" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Soy+Jeison" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
@@ -7,13 +7,13 @@
 </h3>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" alt="Visitor Badge"/></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" alt="Visitor Badge"/>
 </div>
 <br>
 
 <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=juicyfresh" alt="GitHub Trophies" />
-    </a>
+</div>
 
 
 
