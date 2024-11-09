@@ -46,7 +46,15 @@
 
 <hr>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat) ![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&show=prs_merged_percentage&hide=issues&show_icons=true&theme=shadow_red)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-Lopez&langs_count=8&layout=compact&theme=shadow_red)
+
+![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&show=prs_merged_percentage&hide=issues&show_icons=true&theme=shadow_red)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat)
+
+</div>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
