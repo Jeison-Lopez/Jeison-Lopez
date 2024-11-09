@@ -15,9 +15,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=juicyfresh" alt="GitHub Trophies" />
     </a>
 
-<div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=dark_lover" alt="GitHub Trophies" />
-    </a>
+
 
 <p>
 
