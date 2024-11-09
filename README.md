@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Soy+Jeison" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Soy+Jeison" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">
@@ -47,7 +47,7 @@
 <hr>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat)
-![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez)
+![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&show=prs_merged_percentage&hide=issues&show_icons=true&theme=shadow_red)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
