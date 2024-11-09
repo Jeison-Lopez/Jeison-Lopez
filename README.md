@@ -7,12 +7,11 @@
 </h3>
 
 <div align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" alt="Visitor Badge"/></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" alt="Visitor Badge"/></a>
 </div>
 <br>
 
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez" alt="GitHub Trophies" />
     </a>
 </div>
@@ -47,7 +46,8 @@
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat)
+![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-Lopez)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
