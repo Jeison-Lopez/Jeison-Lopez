@@ -52,6 +52,9 @@
 <br><br>
 <img alt="Jeison's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&show=prs_merged_percentage&hide=issues&show_icons=true&theme=shadow_red" height="185px"/></a>
 <img alt="Jeison's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-Lopez&langs_count=8&layout=compact&theme=shadow_red" height="185px"/></a>
+<br><br>
+
+<p>📓 <strong>Nota:</strong> <em>La sección "Most Used Languages" es únicamente una métrica de los lenguajes que conforman mi código público y no refleja necesariamente mi experiencia o nivel de habilidad en cada uno.</em></p>
 
 </div>
 
