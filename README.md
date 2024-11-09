@@ -49,6 +49,7 @@
 <div align="center">
     
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat" height="195px">
+
 <img alt="Jeison's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&show=prs_merged_percentage&hide=issues&show_icons=true&theme=shadow_red" height="185px"/></a>
 <img alt="Jeison's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-Lopez&langs_count=8&layout=compact&theme=shadow_red" height="185px"/></a>
 
