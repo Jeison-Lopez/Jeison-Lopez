@@ -7,15 +7,13 @@
 </h3>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" alt="Visitor Badge"/>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeison-Lopez&label=VISITANTES&labelColor=%23000000&countColor=%23000000" alt="Visitor Badge"/>
 </div>
 <br>
 
 <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=juicyfresh" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=juicyfresh" alt="GitHub Trophies" />
 </div>
-
-
 
 <p>
 
