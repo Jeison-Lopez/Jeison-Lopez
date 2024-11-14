@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Habilidades)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&duration=3000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Habilidades)](https://git.io/typing-svg)
 
 </div>
 
