@@ -55,8 +55,6 @@
 
 <p>📓 <strong>Nota:</strong> <em>La sección "Most Used Languages" es únicamente una métrica de los lenguajes que conforman mi código público y no refleja necesariamente mi experiencia o nivel de habilidad en cada uno.</em></p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <hr>
 </div>
 
