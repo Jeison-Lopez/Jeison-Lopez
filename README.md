@@ -59,7 +59,9 @@
 </div>
 
 <div align="center">
-    <h3><i>Habilidades</i></h3>
+
+![Habilidades](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Habilidades)
+
 </div>
 
 | Category        | Skills        |
