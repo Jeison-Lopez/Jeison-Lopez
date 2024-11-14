@@ -37,8 +37,6 @@
 
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <hr>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeison-Lopez&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
@@ -57,6 +55,9 @@
 
 <p>📓 <strong>Nota:</strong> <em>La sección "Most Used Languages" es únicamente una métrica de los lenguajes que conforman mi código público y no refleja necesariamente mi experiencia o nivel de habilidad en cada uno.</em></p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<hr>
 </div>
 
 <h3 align="left">Conéctate conmigo:</h3>
