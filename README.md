@@ -12,10 +12,13 @@
 <br>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=juicyfresh" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jeison-lopez&theme=juicyfresh" alt="GitHub Trophies" />
 </div>
 
+
+
 <p>
+
 - 📚 Actualmente estoy aprendiendo sobre **optimización de microservicios y nuevas tecnologías de infraestructura para backend.**
 
 - 🤝 Busco colaborar en **proyectos backend desafiantes que involucren Node.js, TypeScript y arquitecturas escalables.**
@@ -33,21 +36,27 @@
 - 📄 Conoce más sobre mi experiencia en mi perfil de [**LinkedIn**](https://www.linkedin.com/in/jeison-lopez).
 
 - ⚡ Dato curioso: **Además de la programación, me apasiona entender cómo operan las empresas y descubrir estrategias para impulsar su crecimiento y éxito, ya que en el futuro quiero fundar y dirigir mi propia empresa.**
+
 </p>
+
 <hr>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeison-Lopez&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <hr>
 
 <div align="center">
-    img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat" height="195px">
-    <br><br>
-    <img alt="Jeison's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&show=prs_merged_percentage&hide=issues&show_icons=true&theme=shadow_red" height="185px"/></a>
-    <img alt="Jeison's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-Lopez&langs_count=8&layout=compact&theme=shadow_red" height="185px"/></a>
-    <br><br>
-    <p>📓 <strong>Nota:</strong> <em>La sección "Most Used Languages" es únicamente una métrica de los lenguajes que conforman mi código público y no refleja necesariamente mi experiencia o nivel de habilidad en cada uno.</em></p>
+    
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jeison-Lopez&theme=git-dark&locale=es&exclude_days=Sun%2CSat" height="195px">
+<br><br>
+<img alt="Jeison's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jeison-Lopez&show=prs_merged_percentage&hide=issues&show_icons=true&theme=shadow_red" height="185px"/></a>
+<img alt="Jeison's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-Lopez&langs_count=8&layout=compact&theme=shadow_red" height="185px"/></a>
+<br><br>
+
+<p>📓 <strong>Nota:</strong> <em>La sección "Most Used Languages" es únicamente una métrica de los lenguajes que conforman mi código público y no refleja necesariamente mi experiencia o nivel de habilidad en cada uno.</em></p>
+
 </div>
 
 <h3 align="left">Conéctate conmigo:</h3>
@@ -110,7 +119,9 @@
 </p>
 
 <div align="center">
-    ![snake gif](https://github.com/Jeison-Lopez/Jeison-Lopez/blob/output/github-snake-dark.svg)
+
+![snake gif](https://github.com/Jeison-Lopez/Jeison-Lopez/blob/output/github-snake-dark.svg)
+
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
