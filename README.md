@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-    <h2>Habilidades</h2>
+    <h3><i>Habilidades</i></h3>
 </div>
 
 | Category        | Skills        |
