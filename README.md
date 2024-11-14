@@ -117,6 +117,8 @@
     </a>
 </p>
 
+<hr>
+
 <div align="center">
 
 ![snake gif](https://github.com/Jeison-Lopez/Jeison-Lopez/blob/output/github-snake-dark.svg)
